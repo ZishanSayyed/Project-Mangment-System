@@ -1,4 +1,4 @@
-# Project-Mangment-System
+
 # Project-Management-System
 AIM: To create an Integrated system where project details and employee details can be managed and tracked
 In this project I Created 2 google forms 1 for employees to keep track of their call records and 2nd Project detail form both forms are integrated with a google sheet and dashboard so employers can track every entry and filter every single project at any time these dashboards are live and updated in every 15 min
